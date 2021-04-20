@@ -1,7 +1,7 @@
 # Charles Proxy
 О репозитории Charles Proxy
 ========
-Файл **Charles_Proxy.md** 
+Файл **Charles_Proxy.md:** 
 - установка SSL сертификата для работы по HTTPS запросами, 
 - проксирование трафика веб-браузера, 
 - настройка Proxy на Android, 
